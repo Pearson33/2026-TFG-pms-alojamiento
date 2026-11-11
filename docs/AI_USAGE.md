@@ -30,3 +30,26 @@ describe un uso concreto de la IA: en qué fase, con qué objetivo, qué herrami
 versión, cómo se utilizó, cómo se validó el resultado y qué contexto se le proporcionó.
 
 ## Registro de actividades
+
+### [Registro 1] - Planificación y organización del proyecto
+
+- **Fecha:** desde 09/11/2026 hasta 11/11/2026
+- **Fase:** 1: Definición y análisis
+- **Objetivo:** apoyo para revisar la planificación inicial y definir la metodología,
+  las fases, la organización de tareas y la estructura de la documentación.
+- **Herramienta:** Claude
+- **Versión concreta:** Claude Opus 5.5
+- **Configuración de la herramienta:** modo chat dentro de un proyecto de claude.ai
+- **Cómo ha sido usada:**
+  - Como apoyo para revisar la planificación inicial, detectar carencias y contrastar
+    alternativas de metodología y organización en fases.
+  - Para resolver dudas sobre GitHub Projects mientras organizaba el tablero y
+    desglosaba las tareas de la Fase 1.
+  - Para comparar la documentación de TFG de referencia, a partir de la cual definí
+    una estructura propia adaptada al proyecto.
+- **Cómo se validó el resultado:** revisión propia de las propuestas, quedándome solo
+  con lo que se ajustaba al proyecto, y contraste con los TFG de referencia;
+  pendiente de validar con el tutor.
+- **Complementos a la herramienta:** búsqueda web.
+- **Ficheros de contexto:** planificación inicial y memorias de TFG de referencia.
+- **Herramientas basadas en ficheros (Spec Driven Development):** No aplica.
